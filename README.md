@@ -1,7 +1,7 @@
 Enjoys solving problems and controlling flow with JavaScript (❁´▽`❁)
 
 
-
+<!-- 
 ### STACK
      
 
@@ -17,3 +17,4 @@ Enjoys solving problems and controlling flow with JavaScript (❁´▽`❁)
 
 
 
+ -->
