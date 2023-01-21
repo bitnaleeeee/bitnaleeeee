@@ -1,5 +1,7 @@
 
-## ✅ Latest Blog Post
+## Enjoys solving problems and controlling flow with JavaScript
+
+## Recent Post 
 
 [2023/01/20 - Vue.js - 할 일 관리 앱](https://github.com/bitnaleeeee/to-do-list-vue/) <br/>
 [2023/01/18 - 취업 일기](https://github.com/bitnaleeeee/career/) <br/>
