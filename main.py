@@ -5,7 +5,9 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 markdown_text = """
-## ✅ Latest Blog Post
+## Enjoys solving problems and controlling flow with JavaScript
+
+## Recent Post 
 
 """  # list of blog posts will be appended here
 
