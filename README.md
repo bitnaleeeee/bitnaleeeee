@@ -1,6 +1,6 @@
 React
 </br>
-Vuu.js
+Vue.js
 </br>
 jQuery
 </br>
