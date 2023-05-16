@@ -1,6 +1,6 @@
 
 <div align="center">
-Hello, World
+Hello, World!
 <br/>
 안녕하세요, 사용자 관점에서 고민하고 꾸준히 노력하는 프론트엔드 개발자 이빛나입니다. 
 <br/>
