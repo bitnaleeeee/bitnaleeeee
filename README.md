@@ -7,7 +7,7 @@
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
   
-✨ *For More Info...*[BLOG]([https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1](https://bitnalee.dev/)](https://bitnalee.dev/))
+✨ *For More Info...*[BLOG](https://bitnalee.dev/)
 
 
 ## 🔨 Technology Stacks
