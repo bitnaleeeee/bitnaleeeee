@@ -2,7 +2,7 @@
 
 
 # 이빛나 *Lee Bit Na*
-👩‍💻 Frontend Developer  
+# 👩‍💻 Frontend Developer  
 
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
