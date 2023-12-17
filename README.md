@@ -1,6 +1,6 @@
 # 이빛나 *Lee Bit Na*
 👩‍💻 Frontend Developer  
-  
+     
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 
