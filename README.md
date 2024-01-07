@@ -1,8 +1,8 @@
 # 이빛나 *Lee Bit Na*
 👩‍💻 Frontend Developer  
 
-안녕하세요, 프론트엔드 개발자 이빛나입니다.
-마크업과 바닐라 자바스크립트에 관심이 많습니다.  
+안녕하세요, 프론트엔드 개발자 이빛나입니다.<br>
+시맨틱 마크업과 바닐라 자바스크립트에 관심이 많습니다.
      
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
